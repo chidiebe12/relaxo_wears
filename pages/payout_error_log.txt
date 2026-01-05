@@ -1,0 +1,15 @@
+2025-06-15 20:44:38
+{"name":"VALIDATION_ERROR","message":"Invalid request - see details","debug_id":"7270a2347978b","information_link":"https://developer.paypal.com/docs/api/payments.payouts-batch/#errors","details":[{"field":"items[0].amount.currency","location":"body","issue":"Currency is not supported"}],"links":[]}
+
+2025-06-15 20:46:59
+{"name":"VALIDATION_ERROR","message":"Invalid request - see details","debug_id":"193a2bcc6a2c9","information_link":"https://developer.paypal.com/docs/api/payments.payouts-batch/#errors","details":[{"field":"items[0].amount.currency","location":"body","issue":"Currency is not supported"}],"links":[]}
+
+2025-06-15 21:00:32
+{"name":"INSUFFICIENT_FUNDS","message":"Sender does not have sufficient funds. Please add funds and retry.","debug_id":"368e4a7db87d9","information_link":"https://developer.paypal.com/docs/api/payments.payouts-batch/#errors","links":[]}
+
+2025-07-02 22:59:41
+{"name":"INSUFFICIENT_FUNDS","message":"Sender does not have sufficient funds. Please add funds and retry.","debug_id":"137d5d7435c0f","information_link":"https://developer.paypal.com/docs/api/payments.payouts-batch/#errors","links":[]}
+
+2025-07-13 20:08:07
+{"error":"invalid_token","error_description":"The token passed in was not found in the system"}
+
